@@ -2,4 +2,5 @@
 - 💡 I’m a Developer and a B.Tech graduate
 - 👩‍💻 I’m currently working as a Software Developer
 
-[<img align ="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"/>][linkedin]
+[<a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/">linkedin</a>]
+
