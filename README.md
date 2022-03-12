@@ -3,6 +3,7 @@ hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44
 
 <a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
 
+![Visitor Count](https://profile-counter.glitch.me/{chalamalasettichamundeswari}/count.svg)
 - 👋 Hi, I’m Chalamalasetti Chamundeswari
 - 💡 I’m a Developer and a B.Tech graduate
 - 👩‍💻 I’m currently working as a Software Developer
