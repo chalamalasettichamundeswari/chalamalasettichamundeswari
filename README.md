@@ -1,12 +1,12 @@
 
-### hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="22px" height="22px"/>
+### hey there
 
 <a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/{chalamalasettichamundeswari}/count.svg)
 - 👋 Hi, I’m Chalamalasetti Chamundeswari
 - 💡 I’m a Developer and a B.Tech graduate
-- 👩‍💻 I’m currently working as a Software Developer
+- 👩‍💻 I’m currently working as a Software Engineer
 
 ### Languages :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
