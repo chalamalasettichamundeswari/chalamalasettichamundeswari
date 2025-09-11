@@ -3,10 +3,12 @@
 
 <a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
 
-![Visitor Count](https://profile-counter.glitch.me/{chalamalasettichamundeswari}/count.svg)
-- 👋 Hi, I’m Chalamalasetti Chamundeswari
-- 💡 I’m a Developer and a B.Tech graduate
-- 👩‍💻 I’m currently working as a Software Engineer
+👋 Hi, I’m Chalamalasetti Chamundeswari
+👩‍💻 I’m currently working as a Software Engineer 
+
+🌱 I’m currently learning Generative AI
+📫 How to reach me chamusetti@gmail.com
+
 
 ### Languages :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
