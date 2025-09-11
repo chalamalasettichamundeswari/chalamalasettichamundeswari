@@ -1,7 +1,7 @@
 
 ### hey there
 
-<a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
+<a href="https://www.linkedin.com/in/chalamalasetti-chamundeswari-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
 
 👋 Hi, I’m Chalamalasetti Chamundeswari <br/>
 👩‍💻 I’m currently working as a Software Engineer <br/>
