@@ -3,10 +3,10 @@
 
 <a href="https://www.linkedin.com/in/chamundeswari-chalamalasetti-77384921a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" height="22px"/></a>
 
-👋 Hi, I’m Chalamalasetti Chamundeswari
-👩‍💻 I’m currently working as a Software Engineer 
+👋 Hi, I’m Chalamalasetti Chamundeswari <br/>
+👩‍💻 I’m currently working as a Software Engineer <br/>
 
-🌱 I’m currently learning Generative AI
+🌱 I’m currently learning Generative AI<br/>
 📫 How to reach me chamusetti@gmail.com
 
 
