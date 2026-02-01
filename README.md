@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 👩‍💻 Currently working as a **Software Engineer**
-- 🌱 Actively learning **Generative AI**, **Kubernetes**, **TypeScript**
+- 🌱 Actively learning **Generative AI**, **TypeScript**
 - 🔭 Passionate about building scalable web applications and automating infrastructure
 - 📫 Reach me at: **chamusetti@gmail.com**
 
