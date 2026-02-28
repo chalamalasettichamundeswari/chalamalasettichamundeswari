@@ -52,12 +52,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ### AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1a1a2e?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1a1a2e?style=for-the-badge&logo=perplexity&logoColor=white)
+
+### AI / LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4A90D9?style=for-the-badge)
 ---
 
 ## 📊 GitHub Statistics
